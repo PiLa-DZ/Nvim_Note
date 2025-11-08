@@ -9,6 +9,7 @@ install lazy.nvim plugin manager
 	alpha-nvim  # Welcom Screen
 	neorg       # Note-Taking
 		nvim-lua/plenary.nvim
+    Mason
 		
 
 sudo pacman -S tree-sitter
