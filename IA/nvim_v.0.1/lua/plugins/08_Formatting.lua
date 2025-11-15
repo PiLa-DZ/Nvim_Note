@@ -38,7 +38,7 @@ return {
 
 				-- تفعيل التنسيق عند الحفظ (Format On Save)
 				format_on_save = {
-					timeout_ms = 500,
+					timeout_ms = 1000,
 					lsp_fallback = true, -- استخدام LSP للتنسيق إذا لم يكن هناك منسق خارجي
 				},
 			})

@@ -1,25 +1,27 @@
 *** All Plugins
-**** Color Scheme
-***** Tokyo Night
-**** Text HighLighting
-***** Tree Sitter
-**** Status Bar
-***** Lua Line
-**** File Manager
-***** Nvim Tree
-**** Welcome Screen
-***** Alpha
-**** Note Taking
-***** Neorg
-**** Tool Manager
-***** Mason
-**** Formatting
-***** Conform
-**** Complation
-***** Nvim CMP
-**** Git Status
-***** Git Signs
+**** Color Scheme      --> Tokyo Night
+**** Text HighLighting --> Tree Sitter
+**** Status Line       --> Lua Line
+**** File Manager      --> Nvim Tree
+**** Welcome Screen    --> Alpha
+**** Note Taking       --> Neorg
+**** Tool Manager      --> Mason
+**** Formatting        --> Conform
+**** Complation        --> Nvim CMP
+**** Git Status        --> Git Signs
+**** LSP               --> Nvim Lspconfig
+**** Diagnostics       --> Trouble
+**** Searching         --> Telescope
+**** Key Manager       --> Which Key
+**** Progress Viewer   --> Fidget
 
 ***  All Formatter Tools
 ***** Prettier
 ***** Stylua
+
+***  All LSP servers
+***** css-lsp
+***** html-lsp
+***** json-lsp
+***** lua-language-server
+***** typescript-language-server
