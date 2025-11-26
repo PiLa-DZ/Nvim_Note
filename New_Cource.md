@@ -7,6 +7,7 @@
 :TSInstall javascript
 :InspectTree
 :TSBufEnable highlight
+$ sudo npm install -g tree-sitter-cli
 
 # LSP
 :lua vim.print(vim.lsp)  || :=vim.lsp
