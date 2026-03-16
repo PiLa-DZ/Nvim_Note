@@ -5,7 +5,19 @@
 1. `<space>uh`
 
 ```lua
-vim.lsp.inlay_hint.enable(not vim.lsp.inlay_hint.is_enabled())
+-- ~/.config/nvim/lua/plugins/lsp.lua
+-- INFO: This Disable (Inlay Hint) UI
+return {
+  {
+    "neovim/nvim-lspconfig",
+    opts = {
+      -- This is the key setting for LazyVim's UI
+      inlay_hints = {
+        enabled = false,
+      },
+    },
+  },
+}
 
 ```
 
