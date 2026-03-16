@@ -18,7 +18,7 @@ $ git checkout branch-name
     2 - LuaRocks
     3 - Dotfiles
 
-# Remember !!
+# Remember
 
     - :help
     - :checkhealth
